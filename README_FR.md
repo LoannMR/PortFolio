@@ -31,8 +31,8 @@ Diplômé en Intelligence Artificielle avec une spécialisation en Machine Learn
 ## Contact
 
 Vous pouvez me contacter via e-mail ou directement par LinkedIn:
-- https://www.linkedin.com/in/loann-mahdar-recorbet/
-- loann.mr.pro@outlook.com
+- [https://www.linkedin.com/in/loann-mahdar-recorbet/](https://www.linkedin.com/in/loann-mahdar-recorbet/)
+- [loann.mr.pro@outlook.com](mailto:loann.mr.pro@outlook.com)
 
 ## 💻 Projets Personnels & Académiques
 

@@ -31,12 +31,12 @@ Graduated in Artificial Intelligence with a specialization in Machine Learning a
 ## Contact
 
 You can contact me via email or directly by LinkedIn:
-- https://www.linkedin.com/in/loann-mahdar-recorbet/
-- loann.mr.pro@outlook.com
+- [https://www.linkedin.com/in/loann-mahdar-recorbet/](https://www.linkedin.com/in/loann-mahdar-recorbet/)
+- [loann.mr.pro@outlook.com](mailto:loann.mr.pro@outlook.com)
 
 ## 💻 Personal & Academic Projects
 
-### [(ONGOING) Learning Machine Learning and Deep Learning with TensorFlow - UDEMY ZTM COURSE](https://github.com/LoannMR/Tensorflow-Zero-to-Mastery)
+### [(ON GOING) Learning Machine Learning and Deep Learning with TensorFlow - UDEMY ZTM COURSE](https://github.com/LoannMR/Tensorflow-Zero-to-Mastery)
 
 Completed:
 - TensorFlow Fundamentals
@@ -53,7 +53,7 @@ In Progress:
 
 Goal: Google’s TensorFlow Developer Certificate
 
-### (EN COURS) Taxi Driver - EPITECH
+### (ON GOING) Taxi Driver - EPITECH
 
 Solving the Taxi-v3 game using an episodic, optimized, and model-free reinforcement learning algorithm.
 - Reinforcement learning (including deep learning)
