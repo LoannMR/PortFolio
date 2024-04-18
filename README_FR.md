@@ -28,6 +28,12 @@ Diplômé en Intelligence Artificielle avec une spécialisation en Machine Learn
 - Matplotlib
 - Autres bibliothèques et technologies pertinentes en Intelligence Artificielle
 
+## Contact
+
+Vous pouvez me contacter via e-mail ou directement par LinkedIn:
+- https://www.linkedin.com/in/loann-mahdar-recorbet/
+- loann.mr.pro@outlook.com
+
 ## 💻 Projets Personnels & Académiques
 
 ### [(EN COURS) Apprentissage du Machine Learning et du Deep Learning avec TensorFlow - FORMATION UDEMY ZTM](https://github.com/LoannMR/Tensorflow-Zero-to-Mastery)
@@ -47,14 +53,27 @@ En cours :
 
 Objectif : Google’s TensorFlow Developer Certificate
 
-### (EN COURS) Travel Order Resolver - EPITECH
+### (EN COURS) Taxi Driver - EPITECH
 
-Proposer le trajet le plus court en train d’une ville A à une ville B en France.
+Résolution du jeu Taxi-v3 en utilisant un algorithme d'apprentissage par renforcement épisodique, optimisé et sans modèle.
+- Apprentissage par renforcement (y compris profond)
+- Algorithmes : Q-Learning, Epsilon-Greedy, Monte-Carlo, REINFORCE, Actor-Critic...
+
+### (EN COURS) IA Kart - EPITECH
+
+Jeu de course de voiture avec de l’intelligence artificielle.
+- Unity et C#
+- Génération procédurale
+- Deep Reinforcement Learning
+
+### [Travel Order Resolver - EPITECH](https://github.com/LoannMR/train-travel-order-resolver)
+
+Application proposant les itinéraires ferroviaires les plus rapides de la ville A à la ville B en France.
 - Reconnaissance vocale en français (Vosk)
 - Natural language processing, Named Entity Recognition
 - Graphs, Algorithmes, Problème de plus court chemin (Network X)
 
-### (EN COURS) Crypto Viz - EPITECH
+### [Crypto Viz - EPITECH](https://github.com/LoannMR/cryptocurrency)
 
 Outil de crypto-monnaies en temps réel avec un modèle "producer-consumer".
 - WEB Scraping : Scrapy, Selenium
@@ -64,12 +83,6 @@ Outil de crypto-monnaies en temps réel avec un modèle "producer-consumer".
 - Consumer : Sparks
 - Base de données : PostgreSQL
 - Application web : Grafana
-
-### (EN COURS) IA Kart - EPITECH
-Jeu de course de voiture avec de l’intelligence artificielle.
-- Unity et C#
-- Génération procédurale
-- Deep Reinforcement Learning
 
 ### [Zoidberg 2.0 – EPITECH](https://github.com/LoannMR/Epitech-zoidberg)
 Intelligence artificielle capable d’identifier une pneumonie à partir d’images de poumons.
