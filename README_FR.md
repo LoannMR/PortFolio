@@ -28,7 +28,7 @@ Diplômé en Intelligence Artificielle avec une spécialisation en Machine Learn
 - Matplotlib
 - Autres bibliothèques et technologies pertinentes en Intelligence Artificielle
 
-## Contact
+## 📞 Contact
 
 Vous pouvez me contacter via e-mail ou directement par LinkedIn:
 - [https://www.linkedin.com/in/loann-mahdar-recorbet/](https://www.linkedin.com/in/loann-mahdar-recorbet/)

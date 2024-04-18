@@ -28,7 +28,7 @@ Graduated in Artificial Intelligence with a specialization in Machine Learning a
 - Matplotlib
 - Other relevant libraries and technologies in Artificial Intelligence
 
-## Contact
+## 📞 Contact
 
 You can contact me via email or directly by LinkedIn:
 - [https://www.linkedin.com/in/loann-mahdar-recorbet/](https://www.linkedin.com/in/loann-mahdar-recorbet/)
