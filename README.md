@@ -6,10 +6,10 @@ Graduated in Artificial Intelligence with a specialization in Machine Learning a
 - Machine Learning / Deep Learning Engineer
 - Other specialized roles in Artificial Intelligence
 
-## 🎓 Current Education
+## 🎓 Education Completed
 
 - (2021-2024) Master Architecte logiciel développeur d’application, Specialization in Artificial Intelligence (AI) (RNCP LEVEL 7) - **EPITECH**.
-- Work-Study Program as a Development Engineer at  [Clinicog](https://www.clinicog.fr/).
+- Work-Study Program for 3 years as a Development Engineer at  [Clinicog](https://www.clinicog.fr/).
 - Available starting September 2024.
 
 ## 🎯 Goals
@@ -57,7 +57,8 @@ Goal: Google’s TensorFlow Developer Certificate
 
 Solving the Taxi-v3 game using an episodic, optimized, and model-free reinforcement learning algorithm.
 - Reinforcement learning (including deep learning)
-- Algorithms: Q-Learning, Epsilon-Greedy, Monte-Carlo, REINFORCE, Actor-Critic...
+- Algorithms: Q-Learning, Epsilon-Greedy, Monte-Carlo, REINFORCE, Actor-Critic, Deep-q-learning, q-lambda, dyna-q...
+- Creation of an interface for creating and viewing training sessions (streamlit)
 
 ### (ON GOING) AI Kart - EPITECH
 

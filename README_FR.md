@@ -3,13 +3,15 @@
 Diplômé en Intelligence Artificielle avec une spécialisation en Machine Learning et Deep Learning, j’excelle dans l'utilisation de Python et TensorFlow pour résoudre des problèmes analytiques complexes.
 
 ## 🕵️ Métier récherché
+
+- Data Scientist
 - Ingénieur Machine Learning / Deep Learning
 - Autres rôles spécialisés en Intelligence Artificielle
 
-## 🎓 Formation en cours
+## 🎓 Formation réalisé
 
 - (2021-2024) Master Architecte logiciel développeur d’application, Spécialité Intelligence Artificielle (IA) (RNCP NIVEAU 7) - **EPITECH**.
-- Formation en Alternance en tant qu’Ingénieur développement chez [Clinicog](https://www.clinicog.fr/).
+- Formation en Alternance pendant 3 ans en tant qu’Ingénieur développement chez [Clinicog](https://www.clinicog.fr/).
 - Disponibilité dès Septembre 2024.
 
 ## 🎯 Mes objectifs
@@ -31,8 +33,9 @@ Diplômé en Intelligence Artificielle avec une spécialisation en Machine Learn
 ## 📞 Contact
 
 Vous pouvez me contacter via e-mail ou directement par LinkedIn:
-- [https://www.linkedin.com/in/loann-mahdar-recorbet/](https://www.linkedin.com/in/loann-mahdar-recorbet/)
 - [loann.mr.pro@outlook.com](mailto:loann.mr.pro@outlook.com)
+- [https://www.linkedin.com/in/loann-mahdar-recorbet/](https://www.linkedin.com/in/loann-mahdar-recorbet/)
+
 
 ## 💻 Projets Personnels & Académiques
 
@@ -53,13 +56,14 @@ En cours :
 
 Objectif : Google’s TensorFlow Developer Certificate
 
-### (EN COURS) Taxi Driver - EPITECH
+### Taxi Driver - EPITECH
 
 Résolution du jeu Taxi-v3 en utilisant un algorithme d'apprentissage par renforcement épisodique, optimisé et sans modèle.
 - Apprentissage par renforcement (y compris profond)
-- Algorithmes : Q-Learning, Epsilon-Greedy, Monte-Carlo, REINFORCE, Actor-Critic...
+- Algorithmes : Q-Learning, Epsilon-Greedy, Monte-Carlo, REINFORCE, Actor-Critic, Deep-q-learning, q-lambda, dyna-q...
+- Création d'une interface pour réaliser et visualiser des entrainements (streamlit)
 
-### (EN COURS) IA Kart - EPITECH
+### IA Kart - EPITECH
 
 Jeu de course de voiture avec de l’intelligence artificielle.
 - Unity et C#
