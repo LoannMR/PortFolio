@@ -3,6 +3,8 @@
 Graduated in Artificial Intelligence with a specialization in Machine Learning and Deep Learning, I excel in using Python and TensorFlow to solve complex analytical problems.
 
 ## 🕵️ Desired Position
+
+- Data Scientist
 - Machine Learning / Deep Learning Engineer
 - Other specialized roles in Artificial Intelligence
 
@@ -53,14 +55,14 @@ In Progress:
 
 Goal: Google’s TensorFlow Developer Certificate
 
-### (ON GOING) Taxi Driver - EPITECH
+### Taxi Driver - EPITECH
 
 Solving the Taxi-v3 game using an episodic, optimized, and model-free reinforcement learning algorithm.
 - Reinforcement learning (including deep learning)
-- Algorithms: Q-Learning, Epsilon-Greedy, Monte-Carlo, REINFORCE, Actor-Critic, Deep-q-learning, q-lambda, dyna-q...
+- Algorithms: Q-Learning, Epsilon-Greedy, Monte-Carlo, REINFORCE, Actor-Critic, Deep-q-learning, q-lambda, Dyna-q...
 - Creation of an interface for creating and viewing training sessions (streamlit)
 
-### (ON GOING) AI Kart - EPITECH
+### AI Kart - EPITECH
 
 Car racing game with artificial intelligence.
 - Unity and C#
