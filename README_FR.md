@@ -8,7 +8,7 @@ Diplômé en Intelligence Artificielle avec une spécialisation en Machine Learn
 - Ingénieur Machine Learning / Deep Learning
 - Autres rôles spécialisés en Intelligence Artificielle
 
-## 🎓 Formation réalisé
+## 🎓 Formation complétée
 
 - (2021-2024) Master Architecte logiciel développeur d’application, Spécialité Intelligence Artificielle (IA) (RNCP NIVEAU 7) - **EPITECH**.
 - Formation en Alternance pendant 3 ans en tant qu’Ingénieur développement chez [Clinicog](https://www.clinicog.fr/).
