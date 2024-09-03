@@ -2,7 +2,7 @@
 
 Diplômé en Intelligence Artificielle avec une spécialisation en Machine Learning et Deep Learning, j’excelle dans l'utilisation de Python et TensorFlow pour résoudre des problèmes analytiques complexes.
 
-## 🕵️ Métier récherché
+## 🕵️ Métiers récherchés
 
 - Data Scientist
 - Ingénieur Machine Learning / Deep Learning
